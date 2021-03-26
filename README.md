@@ -19,7 +19,7 @@ Research Question:
 * Do the results change if you consider Utilib and Utilib 1.4 instead of Blue cars? 
 ## Setup/Installation Requirements
 
-* Google Colab/Jupyter Notebook.
+* colab notebook.
 
 * Pandas and Numpy Python libraries for data exploration and manipulation
 
